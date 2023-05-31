@@ -46,7 +46,7 @@ def main():
     LoanAmount= st.text_input('Loan Amount')
     Loan_Amount_Term= st.text_input('Loan_Amount_Term')
     Credit_History= st.text_input('Credit_History')
-    Property_Area= st.radio('Property_area',('Urban','Semi Urban','Rural'))
+    Property_Area= st.radio('Property_area',('Urban','Semiurban','Rural'))
     
     
     
