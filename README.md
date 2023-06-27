@@ -9,4 +9,4 @@ The project will involve several key steps. Firstly, the historical loan data wi
 Once the SVM model is trained and validated, it can be used to predict the status of new loan applications. The model will take into account various features such as Gender,Married,Dependents,Education,Self employed to determine the likelihood of loan approval. This prediction can be used by lenders to make informed decisions on loan applications, potentially improving the efficiency of loan processing and risk assessment. The project has the potential to contribute to the field of finance by providing a predictive tool for loan status prediction using SVM, a powerful supervised learning model.
 
 I have also deployed a web application using streamlit platform to get a better user interface.
-web link:https://loanstatusprediction.streamlit.app/
+       web link:https://loanstatusprediction.streamlit.app/
